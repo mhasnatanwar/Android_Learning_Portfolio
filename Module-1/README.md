@@ -12,11 +12,11 @@ The [module completion screenshot](Screenshots/module-1-completion.png) shows al
 
 The screen separates the reusable `ProfileCard` composable from the activity. This demonstrates basic Compose layout, modifiers, spacing, typography, and a preview without adding unnecessary architecture to a static screen.
 
-## Evidence still required
+## Application output evidence
 
-- Add an emulator/device screenshot of the running app to `Screenshots/`.
+- [Profile card output](Screenshots/app-output-profile-card.png) was generated directly from the `ProfileCard` composable with Android's official Compose Preview Screenshot Testing tool.
 - All three Module 1 badge screenshots are verified in `Badge-Evidence/`.
-- Complete `Analysis.md` in your own words.
+- The technical discussion is recorded in `Analysis.md` for student review.
 
 ## Run
 
