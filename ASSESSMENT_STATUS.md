@@ -31,7 +31,7 @@ This file separates completed repository work from evidence and writing that onl
 - [x] Badge table in the main README completed
 - [ ] APA 7 references verified and completed
 - [ ] GitHub Pages/repository links checked while signed out
-- [ ] Submission PDF created with repository URL, Android Developers profile URL, and badge summary
+- [x] Submission PDF created with repository URL, Android Developers profile URL, and badge summary
 - [ ] Final originality, spelling, build, and evidence audit completed
 
 Build verification details are recorded in [BUILD_VERIFICATION.md](BUILD_VERIFICATION.md).
