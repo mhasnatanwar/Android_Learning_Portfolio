@@ -19,6 +19,7 @@ This file separates completed repository work from evidence and writing that onl
 ## Stage 3 - Code and technical documentation
 
 - [x] One focused Compose implementation organized under each module
+- [x] All four projects compile successfully with `:app:compileDebugKotlin`
 - [x] Each module contains a feature explanation and run instructions
 - [ ] Student opens, runs, and understands every project in Android Studio
 - [ ] Student replaces/adds any required codelab source that differs from the representative implementation
@@ -32,6 +33,8 @@ This file separates completed repository work from evidence and writing that onl
 - [ ] GitHub Pages/repository links checked while signed out
 - [ ] Submission PDF created with repository URL, Android Developers profile URL, and badge summary
 - [ ] Final originality, spelling, build, and evidence audit completed
+
+Build verification details are recorded in [BUILD_VERIFICATION.md](BUILD_VERIFICATION.md).
 
 ## AI-use disclosure - student must confirm/edit
 
@@ -49,4 +52,3 @@ Use small, truthful commits as work is completed. Good examples:
 - `Add verified Android Developers badge evidence`
 
 Do not rewrite dates or manufacture a semester-long history. Authentic recent commits are better than fabricated evidence.
-
