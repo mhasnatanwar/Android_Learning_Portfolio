@@ -16,7 +16,7 @@ An evidence-based learning portfolio for **CDE2313 Mobile Application Developmen
 | Lecturer | Ts Mohd Zulkifli Mohd Zaki |
 | Assessment | Assessment 1 - Lab Exercises (15%) |
 | GitHub repository | [Android_Learning_Portfolio](https://github.com/mhasnatanwar/Android_Learning_Portfolio) |
-| Android Developers profile | [Muhammad Hasnat Anwar](https://me.developers.google.com/u/100305728997274440370) |
+| Android Developers profile | [Muhammad Hasnat Anwar](https://me.developers.google.com/u/100305728997274440370) - [profile screenshot](Assets/android-developers-profile.png) |
 
 ## Assessment overview
 
