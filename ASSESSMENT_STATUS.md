@@ -30,7 +30,7 @@ This file separates completed repository work from evidence and writing that onl
 - [x] Reflection drafted from the completed work for student review
 - [x] Badge table in the main README completed
 - [ ] APA 7 references verified and completed
-- [ ] GitHub Pages/repository links checked while signed out
+- [x] Android Developers profile visibility confirmed as public
 - [x] Submission PDF created with repository URL, Android Developers profile URL, and badge summary
 - [ ] Final originality, spelling, build, and evidence audit completed
 

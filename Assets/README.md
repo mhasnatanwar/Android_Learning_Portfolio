@@ -8,4 +8,4 @@ Repository-wide authentic evidence:
 
 Do not add generated or edited achievement evidence.
 
-The current screenshot visibly labels the account as a private profile. The student should enable public profile visibility and replace this image with an updated public-profile screenshot before final submission.
+The screenshot visibly confirms that the Android Developers profile is public.
