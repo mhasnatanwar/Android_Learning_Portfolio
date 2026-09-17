@@ -1,24 +1,22 @@
-# Module 4 Analysis - Student Authored
+# Module 4 Analysis - Architecture, Navigation, and Adaptive UI
 
-Write this analysis in your own words. This module carries strong opportunities for comparison and technical justification.
+## Architecture and state ownership
 
-## Architecture comparison
+Module 4 moves selection state into `TopicsViewModel`. UI-owned state would be sufficient if the selected topic mattered only inside one composable, but the compact list and detail destinations both require the same selection. ViewModel ownership creates a single source of truth and separates state from rendering. The public `select` function controls updates while the property setter remains private.
 
-Compare UI-owned state with ViewModel-owned state. Explain lifecycle/configuration implications using the actual selection state.
+For a production application, immutable `UiState` exposed through `StateFlow` would provide stronger separation and easier asynchronous updates. The current `mutableStateOf` approach is intentionally smaller and suitable for a synchronous learning example.
 
-## Navigation comparison
+## Navigation and adaptive layout
 
-Compare separate compact destinations with the expanded list-detail presentation. Discuss back navigation and screen-space use.
+On a compact width, `NavHost` represents list and detail as separate destinations. Selecting a topic updates the ViewModel and navigates to detail, allowing the back stack to return to the list. At 600 dp or wider, the same content appears in a two-pane `Row`; selection updates the detail pane without changing destination.
 
-## Adaptive layout decision
+This comparison shows that navigation is not only movement between pages. On a larger display, simultaneous list-detail presentation uses space more effectively. Reusing `TopicList` and `TopicDetail` in both arrangements avoids separate phone and tablet implementations.
 
-Explain the width rule used by the implementation, its strengths, and its limitations compared with official adaptive layout APIs/window-size classes.
+## Strengths, limitations, and justification
+
+The design connects architecture, navigation, and responsive presentation without over-engineering. The 600 dp rule is transparent and easy to demonstrate, but official adaptive APIs and window-size classes would handle foldables, posture, and more device categories better in production. String routes are sufficient here, while type-safe navigation would be safer in a larger project.
 
 ## Practical evidence
 
-Refer to both compact and expanded screenshots. Describe exactly what remained the same and what changed.
-
-## Technical justification
-
-Conclude with the implementation decision you would keep for a small learning app and what you would change for production.
+The source contains three topics, ViewModel-managed selection, a compact navigation graph, and an expanded 40/60 list-detail split. The project passed Kotlin compilation with Navigation Compose and lifecycle ViewModel dependencies, confirming that the components integrate correctly.
 

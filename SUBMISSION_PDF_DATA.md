@@ -1,6 +1,10 @@
 # Submission PDF Data - Complete Before Export
 
-The Moodle submission PDF must contain the three items below. Replace every placeholder, verify each link while signed out, then export this page or a polished equivalent to PDF.
+The Moodle submission PDF must contain the three items below. Verify each public link while signed out, then export this page or a polished equivalent to PDF.
+
+**Student:** Muhammad Hasnat Anwar  
+**Student ID:** AIU24102076  
+**Course:** CDE2313 Mobile Application Development
 
 ## GitHub repository
 
@@ -8,7 +12,7 @@ https://github.com/mhasnatanwar/Android_Learning_Portfolio
 
 ## Android Developers profile
 
-**Student action required:** paste the public profile URL.
+https://me.developers.google.com/u/100305728997274440370
 
 ## Badge summary
 

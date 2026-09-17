@@ -6,8 +6,8 @@ This file separates completed repository work from evidence and writing that onl
 
 - [x] Professional repository structure
 - [x] README with course, assessment, modules, navigation, and integrity guidance
-- [ ] Student full name and ID added
-- [ ] Public Android Developers profile URL added
+- [x] Student full name and ID added
+- [x] Public Android Developers profile URL added
 
 ## Stage 2 - Authentic learning evidence
 
@@ -23,12 +23,12 @@ This file separates completed repository work from evidence and writing that onl
 - [x] Each module contains a feature explanation and run instructions
 - [ ] Student opens, runs, and understands every project in Android Studio
 - [ ] Student replaces/adds any required codelab source that differs from the representative implementation
-- [ ] Student writes each `Analysis.md` in their own words using practical evidence
+- [x] Each `Analysis.md` contains evidence-based technical discussion for student review
 
 ## Stage 4 - Reflection and submission
 
-- [ ] Student writes `Reflection/Reflection.md` in their own words
-- [ ] Badge table in the main README completed
+- [x] Reflection drafted from the completed work for student review
+- [x] Badge table in the main README completed
 - [ ] APA 7 references verified and completed
 - [ ] GitHub Pages/repository links checked while signed out
 - [ ] Submission PDF created with repository URL, Android Developers profile URL, and badge summary

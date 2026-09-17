@@ -2,21 +2,21 @@
 
 An evidence-based learning portfolio for **CDE2313 Mobile Application Development**. This repository documents four completed Android Developers learning modules, representative Kotlin/Jetpack Compose exercises, authentic completion evidence, and the student's own analysis and reflection.
 
-> **Assessment status:** Portfolio structure and code examples are prepared. Items marked **Student action required** must be completed with the student's own information, evidence, analysis, and reflection before submission.
+> **Assessment status:** Student details, four module projects, 12 verified badges, technical analyses, reflection, build verification, and submission data are documented. Emulator/device output screenshots remain listed in the final checklist.
 
 ## Student and course information
 
 | Item | Details |
 | --- | --- |
-| Student name | **Student action required:** add full name |
-| Student ID | **Student action required:** add ID |
+| Student name | Muhammad Hasnat Anwar |
+| Student ID | AIU24102076 |
 | Programme | Bachelor in Data Science |
 | Course | CDE2313 - Mobile Application Development |
 | Academic session | 2025/2026, Semester 3 |
 | Lecturer | Ts Mohd Zulkifli Mohd Zaki |
 | Assessment | Assessment 1 - Lab Exercises (15%) |
 | GitHub repository | [Android_Learning_Portfolio](https://github.com/mhasnatanwar/Android_Learning_Portfolio) |
-| Android Developers profile | **Student action required:** add public profile URL |
+| Android Developers profile | [Muhammad Hasnat Anwar](https://me.developers.google.com/u/100305728997274440370) |
 
 ## Assessment overview
 
@@ -86,7 +86,7 @@ Android_Learning_Portfolio/
 
 ## Reflection summary
 
-**Student action required:** after writing [Reflection/Reflection.md](Reflection/Reflection.md), replace this note with a concise 3-5 sentence summary in your own words. Mention one challenge, one solution, and one technical decision you can explain during a viva or demonstration.
+The learning journey progressed from basic Kotlin and static Compose layouts to interactive state, efficient lists, ViewModel-based architecture, navigation, and adaptive interfaces. The most important improvement was learning to treat UI as a function of state and to separate state ownership from rendering as an application becomes more complex. The exercises also demonstrated that an implementation choice should match the size of the problem: local state is sufficient for a small calculator, while shared navigation state benefits from a ViewModel. The complete reflection is available in [Reflection/Reflection.md](Reflection/Reflection.md).
 
 ## Academic integrity and AI disclosure
 

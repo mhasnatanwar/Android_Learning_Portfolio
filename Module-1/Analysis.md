@@ -1,24 +1,20 @@
-# Module 1 Analysis - Student Authored
+# Module 1 Analysis - Kotlin and Basic Compose Layout
 
-Write this analysis in your own words. Aim for analysis rather than a lesson summary.
+## Techniques learned and compared
 
-## Techniques compared
+Module 1 introduced Kotlin fundamentals, Android Studio, and declarative UI with Jetpack Compose. The profile-card exercise uses a `Column` because its elements follow one clear vertical sequence: icon, spacing, name, and learning focus. A nested combination of several layout containers would provide more positioning options, but it would add complexity without improving this simple screen. The single `Column` is easier to read and maintain.
 
-Compare at least two relevant choices, for example:
+The implementation separates `ProfileCard` from `MainActivity`. Keeping all UI directly inside `setContent` would work, but a named composable is reusable, previewable, and easier to inspect. Parameters such as `name` and `focus` make the function more flexible than hard-coding every displayed value inside it.
 
-- `Column`/`Row` composition versus a flatter or constraint-based layout
-- hard-coded UI values versus resources/theme values
-- one large composable versus smaller reusable composables
+## Practical evidence
 
-## Evidence from my implementation
-
-Refer to exact functions and the running-app screenshot. Explain what changed when you tested spacing, alignment, or text length.
+`ProfileCard` uses `fillMaxSize`, padding, centered alignment, a `Spacer`, Material typography, and a semantic content description for the Android icon. The `@Preview` function provides quick design feedback without launching an emulator. The project passed Kotlin compilation, confirming that the activity, Compose imports, resources, and Gradle configuration are consistent.
 
 ## Strengths, limitations, and decision
 
-State one strength and one limitation of each approach, then justify the approach used in this module.
+Compose makes a small layout concise because its structure is visible directly in Kotlin. Reusable composables also reduce repeated UI code. A limitation is that one icon color and the displayed strings are still defined in code. A larger application should move user-facing text to string resources and rely more fully on theme colors for localization and consistent styling. For a focused introductory exercise, the current approach keeps the relationship between Kotlin and the visible layout clear.
 
-## What I would improve
+## Improvement
 
-Identify a realistic next improvement without claiming work you did not perform.
+A sensible next improvement would be adding contact rows with reusable composables, string resources, and light/dark previews while keeping the layout simple.
 
