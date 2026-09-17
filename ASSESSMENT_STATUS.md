@@ -29,10 +29,11 @@ This file separates completed repository work from evidence and writing that onl
 
 - [x] Reflection drafted from the completed work for student review
 - [x] Badge table in the main README completed
-- [ ] APA 7 references verified and completed
+- [x] APA 7 references verified and completed using official Android Developers sources
 - [x] Android Developers profile visibility confirmed as public
 - [x] Submission PDF created with repository URL, Android Developers profile URL, and badge summary
-- [ ] Final originality, spelling, build, and evidence audit completed
+- [x] Final spelling, build, repository-link, and available-evidence audit completed
+- [ ] Turnitin/originality check completed by the student through the institution's submission system
 
 Build verification details are recorded in [BUILD_VERIFICATION.md](BUILD_VERIFICATION.md).
 
