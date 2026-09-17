@@ -14,15 +14,15 @@ https://github.com/mhasnatanwar/Android_Learning_Portfolio
 
 | No. | Badge name | Module | Evidence link |
 | ---: | --- | --- | --- |
-| 1 | Introduction to Programming in Kotlin | Module 1 | [Verified evidence](Module-1/Badge-Evidence/introduction-to-programming-in-kotlin-badge.png) |
-| 2 | Build a Basic Layout | Module 1 | [Verified evidence](Module-1/Badge-Evidence/build-a-basic-layout-badge.png) |
-| 3 | Kotlin Fundamentals | Module 2 | [Verified evidence](Module-2/Badge-Evidence/kotlin-fundamentals-badge.png) |
-| 4 | More Kotlin Fundamentals | Module 3 | [Verified evidence](Module-3/Badge-Evidence/more-kotlin-fundamentals-badge.png) |
-| 5 | Add authentic badge name | Module | Add repository link |
-| 6 | Add authentic badge name | Module | Add repository link |
-| 7 | Add authentic badge name | Module | Add repository link |
-| 8 | Add authentic badge name | Module | Add repository link |
-| 9 | Add authentic badge name | Module | Add repository link |
-| 10 | Add authentic badge name | Module | Add repository link |
-
-Add further rows if more than 10 badges were earned.
+| 1 | Introduction to Programming in Kotlin | Module 1 | [Verified evidence](Module-1/Badge-Evidence/01-introduction-to-programming-in-kotlin.png) |
+| 2 | Set up Android Studio | Module 1 | [Verified evidence](Module-1/Badge-Evidence/02-setup-android-studio.png) |
+| 3 | Build a Basic Layout | Module 1 | [Verified evidence](Module-1/Badge-Evidence/03-build-a-basic-layout.png) |
+| 4 | Kotlin Fundamentals | Module 2 | [Verified evidence](Module-2/Badge-Evidence/04-kotlin-fundamentals.png) |
+| 5 | Add a Button to an App | Module 2 | [Verified evidence](Module-2/Badge-Evidence/05-add-a-button-to-an-app.png) |
+| 6 | Interacting with UI and State | Module 2 | [Verified evidence](Module-2/Badge-Evidence/06-interacting-with-ui-and-state.png) |
+| 7 | More Kotlin Fundamentals | Module 3 | [Verified evidence](Module-3/Badge-Evidence/07-more-kotlin-fundamentals.png) |
+| 8 | Build a Scrollable List | Module 3 | [Verified evidence](Module-3/Badge-Evidence/08-build-a-scrollable-list.png) |
+| 9 | Build Beautiful Apps | Module 3 | [Verified evidence](Module-3/Badge-Evidence/09-build-beautiful-apps.png) |
+| 10 | Architecture Components | Module 4 | [Verified evidence](Module-4/Badge-Evidence/10-architecture-components.png) |
+| 11 | Navigation in Jetpack Compose | Module 4 | [Verified evidence](Module-4/Badge-Evidence/11-navigation-in-jetpack-compose.png) |
+| 12 | Adaptive Layouts | Module 4 | [Verified evidence](Module-4/Badge-Evidence/12-adaptive-layouts.png) |

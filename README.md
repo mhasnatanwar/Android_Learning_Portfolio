@@ -24,25 +24,44 @@ The portfolio demonstrates practical Android learning and analytical thinking. I
 
 ## Completed learning modules
 
-| Module | Completed pathways | Evidence | Representative implementation |
+| Module | Completed pathways | Evidence | Source code |
 | --- | --- | --- | --- |
-| [Module 1](Module-1/README.md) | Introduction to Kotlin; Set up Android Studio; Build a basic layout | [Completion screenshot](Module-1/Screenshots/module-1-completion.png) | Compose profile card demonstrating a basic layout |
-| [Module 2](Module-2/README.md) | Kotlin fundamentals; Add a button; Interact with UI and state | [Completion screenshot](Module-2/Screenshots/module-2-completion.png) | Stateful tip calculator with validated input |
-| [Module 3](Module-3/README.md) | More Kotlin fundamentals; Build a scrollable list; Build beautiful apps | [Completion screenshot](Module-3/Screenshots/module-3-completion.png) | Material 3 affirmation list using `LazyColumn` |
-| [Module 4](Module-4/README.md) | Architecture components; Navigation in Compose; Adaptive layouts | [Completion screenshot](Module-4/Screenshots/module-4-completion.png) | Navigation, ViewModel UI state, and adaptive list/detail layout |
+| [Module 1](Module-1/README.md) | Introduction to Kotlin; Set up Android Studio; Build a basic layout | [Completion screenshot](Module-1/Screenshots/module-1-completion.png) | [Compose profile card](Module-1/Source-Code/app/src/main/java/com/example/module1/MainActivity.kt) |
+| [Module 2](Module-2/README.md) | Kotlin fundamentals; Add a button; Interact with UI and state | [Completion screenshot](Module-2/Screenshots/module-2-completion.png) | [Stateful tip calculator](Module-2/Source-Code/app/src/main/java/com/example/module2/MainActivity.kt) |
+| [Module 3](Module-3/README.md) | More Kotlin fundamentals; Build a scrollable list; Build beautiful apps | [Completion screenshot](Module-3/Screenshots/module-3-completion.png) | [Material 3 affirmation list](Module-3/Source-Code/app/src/main/java/com/example/module3/MainActivity.kt) |
+| [Module 4](Module-4/README.md) | Architecture components; Navigation in Compose; Adaptive layouts | [Completion screenshot](Module-4/Screenshots/module-4-completion.png) | [Navigation, ViewModel, and adaptive UI](Module-4/Source-Code/app/src/main/java/com/example/module4/MainActivity.kt) |
 
 ## Badge summary
 
-The supplied screenshots authenticate completion of 12 pathways across four modules. The assessment separately requires at least 10 badge-achievement screenshots; those must be added to each module's `Badge-Evidence` folder and summarized below.
+The supplied screenshots authenticate completion of all 12 pathways and visibly show “Badge earned!” for every badge. This exceeds the assessment minimum of 10 badges.
 
 | Badge | Module | Evidence status |
 | --- | --- | --- |
-| Introduction to Programming in Kotlin | Module 1 | [Verified - “Badge earned!” visible](Module-1/Badge-Evidence/introduction-to-programming-in-kotlin-badge.png) |
-| Build a Basic Layout | Module 1 | [Verified - “Badge earned!” visible](Module-1/Badge-Evidence/build-a-basic-layout-badge.png) |
-| Kotlin Fundamentals | Module 2 | [Verified - “Badge earned!” visible](Module-2/Badge-Evidence/kotlin-fundamentals-badge.png) |
-| More Kotlin Fundamentals | Module 3 | [Verified - “Badge earned!” visible](Module-3/Badge-Evidence/more-kotlin-fundamentals-badge.png) |
+| Introduction to Programming in Kotlin | Module 1 | [Verified](Module-1/Badge-Evidence/01-introduction-to-programming-in-kotlin.png) |
+| Set up Android Studio | Module 1 | [Verified](Module-1/Badge-Evidence/02-setup-android-studio.png) |
+| Build a Basic Layout | Module 1 | [Verified](Module-1/Badge-Evidence/03-build-a-basic-layout.png) |
+| Kotlin Fundamentals | Module 2 | [Verified](Module-2/Badge-Evidence/04-kotlin-fundamentals.png) |
+| Add a Button to an App | Module 2 | [Verified](Module-2/Badge-Evidence/05-add-a-button-to-an-app.png) |
+| Interacting with UI and State | Module 2 | [Verified](Module-2/Badge-Evidence/06-interacting-with-ui-and-state.png) |
+| More Kotlin Fundamentals | Module 3 | [Verified](Module-3/Badge-Evidence/07-more-kotlin-fundamentals.png) |
+| Build a Scrollable List | Module 3 | [Verified](Module-3/Badge-Evidence/08-build-a-scrollable-list.png) |
+| Build Beautiful Apps | Module 3 | [Verified](Module-3/Badge-Evidence/09-build-beautiful-apps.png) |
+| Architecture Components | Module 4 | [Verified](Module-4/Badge-Evidence/10-architecture-components.png) |
+| Navigation in Jetpack Compose | Module 4 | [Verified](Module-4/Badge-Evidence/11-navigation-in-jetpack-compose.png) |
+| Adaptive Layouts | Module 4 | [Verified](Module-4/Badge-Evidence/12-adaptive-layouts.png) |
 
-**Current verified badge count: 4 of the required 10.** The other supplied pathway pages are retained as authentic activity evidence, but are not counted as badge evidence because the captured page does not visibly confirm that the badge was earned.
+**Verified badge count: 12 of 12 (minimum requirement: 10).**
+
+## Code implementation overview
+
+Each module contains a complete standalone Android Studio project with its own Gradle wrapper. All four projects have passed `:app:compileDebugKotlin`:
+
+- **Module 1:** composable structure, layout, typography, modifiers, icon, and preview.
+- **Module 2:** validated input, remembered UI state, slider and switch interaction, pure tip calculation, and formatted output.
+- **Module 3:** immutable data model, reusable Material cards, stable list keys, and lazy scrolling.
+- **Module 4:** ViewModel-owned selection state, Compose Navigation, and compact versus expanded list-detail layouts.
+
+See [build verification](BUILD_VERIFICATION.md) for the recorded verification results.
 
 Do not count a pathway-completion card as a badge unless the Android Developers profile explicitly identifies it as a badge.
 

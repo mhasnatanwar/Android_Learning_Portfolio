@@ -15,7 +15,7 @@ On compact widths, selecting a topic navigates to a detail destination. On wider
 ## Evidence still required
 
 - Add compact and expanded emulator/device screenshots to `Screenshots/`.
-- Add Module 4 badge screenshots where the earned badge is visibly confirmed; the supplied pages currently show pathway/activity evidence only.
+- All three Module 4 badge screenshots are verified in `Badge-Evidence/`.
 - Complete `Analysis.md` in your own words.
 
 ## Run

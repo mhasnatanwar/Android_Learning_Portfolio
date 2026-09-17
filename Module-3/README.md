@@ -15,7 +15,7 @@ Each list item is a reusable card. Stable item keys and lazy rendering keep the 
 ## Evidence still required
 
 - Add an emulator/device screenshot of the running app to `Screenshots/`.
-- One badge screenshot is verified in `Badge-Evidence/`; the other pathway screenshots do not visibly say that a badge was earned.
+- All three Module 3 badge screenshots are verified in `Badge-Evidence/`.
 - Complete `Analysis.md` in your own words.
 
 ## Run

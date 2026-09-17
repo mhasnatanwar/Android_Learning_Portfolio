@@ -15,7 +15,7 @@ Input values are state owned by the screen and passed to a pure calculation func
 ## Evidence still required
 
 - Add an emulator/device screenshot of the running app to `Screenshots/`.
-- One badge screenshot is verified in `Badge-Evidence/`; the other pathway screenshots do not visibly say that a badge was earned.
+- All three Module 2 badge screenshots are verified in `Badge-Evidence/`.
 - Complete `Analysis.md` in your own words.
 
 ## Run

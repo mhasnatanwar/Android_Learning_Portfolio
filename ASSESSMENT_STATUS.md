@@ -12,7 +12,7 @@ This file separates completed repository work from evidence and writing that onl
 ## Stage 2 - Authentic learning evidence
 
 - [x] Four supplied module-completion screenshots organized by module
-- [ ] At least 10 individual badge-achievement screenshots added (4 currently verified)
+- [x] Twelve individual badge-achievement screenshots added and visibly verified
 - [ ] Application-output screenshot(s) added for each module
 - [ ] Android Developers profile-page screenshot added to `Assets/`
 

@@ -15,7 +15,7 @@ The screen separates the reusable `ProfileCard` composable from the activity. Th
 ## Evidence still required
 
 - Add an emulator/device screenshot of the running app to `Screenshots/`.
-- Two badge screenshots are verified in `Badge-Evidence/`; add any remaining Module 1 badge evidence if available.
+- All three Module 1 badge screenshots are verified in `Badge-Evidence/`.
 - Complete `Analysis.md` in your own words.
 
 ## Run
