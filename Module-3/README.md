@@ -6,7 +6,7 @@
 2. Build a scrollable list
 3. Build beautiful apps
 
-The [completion screenshot](Screenshots/module-3-completion.png) shows all three pathways at 100%. The representative exercise in `Source-Code` renders immutable affirmation data in a Material 3 `LazyColumn`.
+The [module completion screenshot](Screenshots/module-3-completion.png) shows all three pathways at 100%. Detailed evidence is available for [More Kotlin fundamentals](Screenshots/pathway-1-more-kotlin-fundamentals.png), [scrollable lists](Screenshots/pathway-2-scrollable-list.png), and [beautiful apps](Screenshots/pathway-3-beautiful-apps.png). The representative exercise in `Source-Code` renders immutable affirmation data in a Material 3 `LazyColumn`.
 
 ## Implementation feature
 
@@ -15,10 +15,9 @@ Each list item is a reusable card. Stable item keys and lazy rendering keep the 
 ## Evidence still required
 
 - Add an emulator/device screenshot of the running app to `Screenshots/`.
-- Add authentic badge-achievement screenshot(s) to `Badge-Evidence/`.
+- One badge screenshot is verified in `Badge-Evidence/`; the other pathway screenshots do not visibly say that a badge was earned.
 - Complete `Analysis.md` in your own words.
 
 ## Run
 
 Open `Source-Code` in Android Studio, allow Gradle sync to finish, and run the `app` configuration.
-

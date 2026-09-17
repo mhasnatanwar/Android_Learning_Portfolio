@@ -6,7 +6,7 @@
 2. Add a button to an app
 3. Interact with UI and state
 
-The [completion screenshot](Screenshots/module-2-completion.png) shows all three pathways at 100%. The representative exercise in `Source-Code` is a tip calculator with numeric input, a service-quality slider, rounding control, and calculated output.
+The [module completion screenshot](Screenshots/module-2-completion.png) shows all three pathways at 100%. Detailed evidence is available for [Kotlin fundamentals](Screenshots/pathway-1-kotlin-fundamentals.png), [button interaction](Screenshots/pathway-2-add-a-button.png), and [UI state](Screenshots/pathway-3-ui-and-state.png). The representative exercise in `Source-Code` is a tip calculator with numeric input, a service-quality slider, rounding control, and calculated output.
 
 ## Implementation feature
 
@@ -15,10 +15,9 @@ Input values are state owned by the screen and passed to a pure calculation func
 ## Evidence still required
 
 - Add an emulator/device screenshot of the running app to `Screenshots/`.
-- Add authentic badge-achievement screenshot(s) to `Badge-Evidence/`.
+- One badge screenshot is verified in `Badge-Evidence/`; the other pathway screenshots do not visibly say that a badge was earned.
 - Complete `Analysis.md` in your own words.
 
 ## Run
 
 Open `Source-Code` in Android Studio, allow Gradle sync to finish, and run the `app` configuration.
-

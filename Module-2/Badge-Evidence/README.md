@@ -1,4 +1,7 @@
 # Module 2 Badge Evidence
 
-Add unedited screenshots of badges earned on the student's Android Developers profile. Do not substitute pathway-completion cards unless the profile identifies them as badges.
+Verified evidence in this folder:
 
+- Kotlin Fundamentals - “Badge earned!” is visible.
+
+The other supplied pathway screenshots are not counted as badge evidence because the earned status is not visible.

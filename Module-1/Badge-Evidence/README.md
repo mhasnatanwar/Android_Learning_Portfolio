@@ -1,4 +1,8 @@
 # Module 1 Badge Evidence
 
-Add unedited screenshots of badges earned on the student's Android Developers profile. Use descriptive names such as `kotlin-basics-badge.png` and list each badge in the main README.
+Verified evidence in this folder:
 
+- Introduction to Programming in Kotlin - “Badge earned!” is visible.
+- Build a Basic Layout - “Badge earned!” is visible.
+
+Add any further unedited badge screenshots and list them in the main README.

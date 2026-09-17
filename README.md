@@ -35,9 +35,14 @@ The portfolio demonstrates practical Android learning and analytical thinking. I
 
 The supplied screenshots authenticate completion of 12 pathways across four modules. The assessment separately requires at least 10 badge-achievement screenshots; those must be added to each module's `Badge-Evidence` folder and summarized below.
 
-| Badge | Module | Evidence |
+| Badge | Module | Evidence status |
 | --- | --- | --- |
-| **Student action required** | Add module | Add relative link to authentic badge screenshot |
+| Introduction to Programming in Kotlin | Module 1 | [Verified - “Badge earned!” visible](Module-1/Badge-Evidence/introduction-to-programming-in-kotlin-badge.png) |
+| Build a Basic Layout | Module 1 | [Verified - “Badge earned!” visible](Module-1/Badge-Evidence/build-a-basic-layout-badge.png) |
+| Kotlin Fundamentals | Module 2 | [Verified - “Badge earned!” visible](Module-2/Badge-Evidence/kotlin-fundamentals-badge.png) |
+| More Kotlin Fundamentals | Module 3 | [Verified - “Badge earned!” visible](Module-3/Badge-Evidence/more-kotlin-fundamentals-badge.png) |
+
+**Current verified badge count: 4 of the required 10.** The other supplied pathway pages are retained as authentic activity evidence, but are not counted as badge evidence because the captured page does not visibly confirm that the badge was earned.
 
 Do not count a pathway-completion card as a badge unless the Android Developers profile explicitly identifies it as a badge.
 
@@ -75,4 +80,3 @@ All completion and badge evidence must come from the student's own Android Devel
 3. Read the student's four analysis documents.
 4. Verify at least 10 badge screenshots and the public Android Developers profile.
 5. Read the final reflection and references.
-
