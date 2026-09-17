@@ -5,6 +5,7 @@ local.properties
 .idea/
 build/
 **/build/
+**/src/screenshotTestDebug/reference/
 captures/
 .externalNativeBuild/
 .cxx/
