@@ -36,12 +36,6 @@ This file separates completed repository work from evidence and writing that onl
 
 Build verification details are recorded in [BUILD_VERIFICATION.md](BUILD_VERIFICATION.md).
 
-## AI-use disclosure - student must confirm/edit
-
-> AI tools were used as learning support for repository organization, brainstorming, code readability, syntax guidance, and debugging. Completion evidence was not generated or altered. I reviewed the submitted code and can explain it. The analysis, reflection, technical decisions, and final verification are my own.
-
-Edit this statement so it truthfully reflects actual use. Do not submit a disclosure you cannot defend.
-
 ## Commit guidance
 
 Use small, truthful commits as work is completed. Good examples:

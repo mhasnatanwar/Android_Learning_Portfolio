@@ -10,7 +10,7 @@ An evidence-based learning portfolio for **CDE2313 Mobile Application Developmen
 | --- | --- |
 | Student name | Muhammad Hasnat Anwar |
 | Student ID | AIU24102076 |
-| Programme | Bachelor in Data Science |
+| Programme | Bachelor in Computer Science |
 | Course | CDE2313 - Mobile Application Development |
 | Academic session | 2025/2026, Semester 3 |
 | Lecturer | Ts Mohd Zulkifli Mohd Zaki |
@@ -76,9 +76,21 @@ Android_Learning_Portfolio/
 |  |- Screenshots/
 |  |- Badge-Evidence/
 |  `- Analysis.md
-|- Module-2/ ...
-|- Module-3/ ...
-|- Module-4/ ...
+|- Module-2/
+|  |- Source-Code/
+|  |- Screenshots/
+|  |- Badge-Evidence/
+|  `- Analysis.md
+|- Module-3/
+|  |- Source-Code/
+|  |- Screenshots/
+|  |- Badge-Evidence/
+|  `- Analysis.md
+|- Module-4/
+|  |- Source-Code/
+|  |- Screenshots/
+|  |- Badge-Evidence/
+|  `- Analysis.md
 |- Reflection/Reflection.md
 |- References/README.md
 `- Assets/
@@ -87,15 +99,3 @@ Android_Learning_Portfolio/
 ## Reflection summary
 
 The learning journey progressed from basic Kotlin and static Compose layouts to interactive state, efficient lists, ViewModel-based architecture, navigation, and adaptive interfaces. The most important improvement was learning to treat UI as a function of state and to separate state ownership from rendering as an application becomes more complex. The exercises also demonstrated that an implementation choice should match the size of the problem: local state is sufficient for a small calculator, while shared navigation state benefits from a ViewModel. The complete reflection is available in [Reflection/Reflection.md](Reflection/Reflection.md).
-
-## Academic integrity and AI disclosure
-
-All completion and badge evidence must come from the student's own Android Developers account. The student must understand and be able to explain every submitted code example. AI may support concept clarification, syntax, debugging, readability, brainstorming, and grammar, but the student's analysis, reflection, practical ownership, and technical justification must remain their own. Complete the disclosure in [ASSESSMENT_STATUS.md](ASSESSMENT_STATUS.md) accurately before submission.
-
-## Quick review route
-
-1. Verify the four module-completion screenshots linked above.
-2. Review each module's source code and application-output screenshots.
-3. Read the student's four analysis documents.
-4. Verify at least 10 badge screenshots and the public Android Developers profile.
-5. Read the final reflection and references.
