@@ -24,12 +24,12 @@ The portfolio demonstrates practical Android learning and analytical thinking. I
 
 ## Completed learning modules
 
-| Module | Completed pathways | Evidence | Source code |
-| --- | --- | --- | --- |
-| [Module 1](Module-1/README.md) | Introduction to Kotlin; Set up Android Studio; Build a basic layout | [Completion screenshot](Module-1/Screenshots/module-1-completion.png) | [Compose profile card](Module-1/Source-Code/app/src/main/java/com/example/module1/MainActivity.kt) |
-| [Module 2](Module-2/README.md) | Kotlin fundamentals; Add a button; Interact with UI and state | [Completion screenshot](Module-2/Screenshots/module-2-completion.png) | [Stateful tip calculator](Module-2/Source-Code/app/src/main/java/com/example/module2/MainActivity.kt) |
-| [Module 3](Module-3/README.md) | More Kotlin fundamentals; Build a scrollable list; Build beautiful apps | [Completion screenshot](Module-3/Screenshots/module-3-completion.png) | [Material 3 affirmation list](Module-3/Source-Code/app/src/main/java/com/example/module3/MainActivity.kt) |
-| [Module 4](Module-4/README.md) | Architecture components; Navigation in Compose; Adaptive layouts | [Completion screenshot](Module-4/Screenshots/module-4-completion.png) | [Navigation, ViewModel, and adaptive UI](Module-4/Source-Code/app/src/main/java/com/example/module4/MainActivity.kt) |
+| Module | Completed pathways | Completion evidence | Application output | Source code |
+| --- | --- | --- | --- | --- |
+| [Module 1](Module-1/README.md) | Introduction to Kotlin; Set up Android Studio; Build a basic layout | [Completion screenshot](Module-1/Screenshots/module-1-completion.png) | [Profile card](Module-1/Screenshots/app-output-profile-card.png) | [Compose profile card](Module-1/Source-Code/app/src/main/java/com/example/module1/MainActivity.kt) |
+| [Module 2](Module-2/README.md) | Kotlin fundamentals; Add a button; Interact with UI and state | [Completion screenshot](Module-2/Screenshots/module-2-completion.png) | [Tip calculator](Module-2/Screenshots/app-output-tip-calculator.png) | [Stateful tip calculator](Module-2/Source-Code/app/src/main/java/com/example/module2/MainActivity.kt) |
+| [Module 3](Module-3/README.md) | More Kotlin fundamentals; Build a scrollable list; Build beautiful apps | [Completion screenshot](Module-3/Screenshots/module-3-completion.png) | [Affirmation list](Module-3/Screenshots/app-output-affirmation-list.png) | [Material 3 affirmation list](Module-3/Source-Code/app/src/main/java/com/example/module3/MainActivity.kt) |
+| [Module 4](Module-4/README.md) | Architecture components; Navigation in Compose; Adaptive layouts | [Completion screenshot](Module-4/Screenshots/module-4-completion.png) | [Compact](Module-4/Screenshots/app-output-compact.png) / [Expanded](Module-4/Screenshots/app-output-expanded.png) | [Navigation, ViewModel, and adaptive UI](Module-4/Source-Code/app/src/main/java/com/example/module4/MainActivity.kt) |
 
 ## Badge summary
 

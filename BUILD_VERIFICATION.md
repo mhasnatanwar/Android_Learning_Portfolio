@@ -9,6 +9,10 @@ Verified on 17 September 2026 using Android SDK 35, Gradle 9.5.0, Android Gradle
 | Module 3 - Affirmations | `gradlew.bat :app:compileDebugKotlin` | Passed |
 | Module 4 - Adaptive Topics | `gradlew.bat :app:compileDebugKotlin` | Passed |
 
+## Output rendering verification
+
+Android's Compose Preview Screenshot Testing task `:app:updateDebugScreenshotTest` passed for all four modules. The generated outputs are linked from each module README; Module 4 includes both compact and expanded width variants.
+
 ## Student verification before submission
 
 Compilation proves that the projects are structurally valid, but the student must still:
@@ -17,4 +21,3 @@ Compilation proves that the projects are structurally valid, but the student mus
 2. Interact with each feature and confirm expected behavior.
 3. Capture authentic application-output screenshots.
 4. Confirm they can explain each important function and technical decision.
-

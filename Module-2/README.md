@@ -12,11 +12,11 @@ The [module completion screenshot](Screenshots/module-2-completion.png) shows al
 
 Input values are state owned by the screen and passed to a pure calculation function. This keeps the small example testable and makes recomposition behavior easy to explain.
 
-## Evidence still required
+## Application output evidence
 
-- Add an emulator/device screenshot of the running app to `Screenshots/`.
+- [Tip calculator output](Screenshots/app-output-tip-calculator.png) was generated directly from the composable with Android's official Compose Preview Screenshot Testing tool.
 - All three Module 2 badge screenshots are verified in `Badge-Evidence/`.
-- Complete `Analysis.md` in your own words.
+- The technical discussion is recorded in `Analysis.md` for student review.
 
 ## Run
 

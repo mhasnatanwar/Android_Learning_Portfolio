@@ -13,7 +13,7 @@ This file separates completed repository work from evidence and writing that onl
 
 - [x] Four supplied module-completion screenshots organized by module
 - [x] Twelve individual badge-achievement screenshots added and visibly verified
-- [ ] Application-output screenshot(s) added for each module
+- [x] Application-output screenshot(s) generated and added for all four modules
 - [x] Android Developers profile-page screenshot added to `Assets/`
 
 ## Stage 3 - Code and technical documentation

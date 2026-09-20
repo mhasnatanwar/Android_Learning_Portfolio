@@ -12,11 +12,11 @@ The [module completion screenshot](Screenshots/module-3-completion.png) shows al
 
 Each list item is a reusable card. Stable item keys and lazy rendering keep the implementation appropriate for a growing data set, while semantic content descriptions and Material theming improve accessibility and consistency.
 
-## Evidence still required
+## Application output evidence
 
-- Add an emulator/device screenshot of the running app to `Screenshots/`.
+- [Affirmation list output](Screenshots/app-output-affirmation-list.png) was generated directly from the composable with Android's official Compose Preview Screenshot Testing tool.
 - All three Module 3 badge screenshots are verified in `Badge-Evidence/`.
-- Complete `Analysis.md` in your own words.
+- The technical discussion is recorded in `Analysis.md` for student review.
 
 ## Run
 

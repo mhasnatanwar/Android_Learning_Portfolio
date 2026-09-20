@@ -12,11 +12,11 @@ The [module completion screenshot](Screenshots/module-4-completion.png) shows al
 
 On compact widths, selecting a topic navigates to a detail destination. On wider widths, list and detail panes appear together. Selection state lives in a `ViewModel`, so it survives configuration changes and remains separate from rendering.
 
-## Evidence still required
+## Application output evidence
 
-- Add compact and expanded emulator/device screenshots to `Screenshots/`.
+- [Compact output](Screenshots/app-output-compact.png) and [expanded output](Screenshots/app-output-expanded.png) were generated directly from the adaptive composable with Android's official Compose Preview Screenshot Testing tool.
 - All three Module 4 badge screenshots are verified in `Badge-Evidence/`.
-- Complete `Analysis.md` in your own words.
+- The technical discussion is recorded in `Analysis.md` for student review.
 
 ## Run
 
